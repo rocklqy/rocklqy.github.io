@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rock&#39;s blog</title>
+    <link>https://github.com/rocklqy/rocklqy.github.io.git/</link>
+    <description>Recent content on Rock&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 03 May 2022 22:28:05 +0800</lastBuildDate><atom:link href="https://github.com/rocklqy/rocklqy.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>https://github.com/rocklqy/rocklqy.github.io.git/posts/firstpost/</link>
+      <pubDate>Tue, 03 May 2022 22:28:05 +0800</pubDate>
+      
+      <guid>https://github.com/rocklqy/rocklqy.github.io.git/posts/firstpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://github.com/rocklqy/rocklqy.github.io.git/posts/about/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/rocklqy/rocklqy.github.io.git/posts/about/</guid>
+      <description>这是关于页面，rocklqy。</description>
+    </item>
+    
+  </channel>
+</rss>
