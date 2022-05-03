@@ -1,32 +1,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>文章列表 on Rock&#39;s blog</title>
-		<link>https://github.com/rocklqy/rocklqy.github.io.git/posts/</link>
+		<link>https://rocklqy.github.io/posts/</link>
 		<description>Recent content in 文章列表 on Rock&#39;s blog</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Tue, 03 May 2022 22:28:05 +0800</lastBuildDate>
-		<atom:link href="https://github.com/rocklqy/rocklqy.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://rocklqy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Firstpost</title>
-			<link>https://github.com/rocklqy/rocklqy.github.io.git/posts/firstpost/</link>
+			<link>https://rocklqy.github.io/posts/firstpost/</link>
 			<pubDate>Tue, 03 May 2022 22:28:05 +0800</pubDate>
 			
-			<guid>https://github.com/rocklqy/rocklqy.github.io.git/posts/firstpost/</guid>
+			<guid>https://rocklqy.github.io/posts/firstpost/</guid>
 			<description></description>
 			<content type="html"><![CDATA[]]></content>
 		</item>
 		
 		<item>
 			<title>关于</title>
-			<link>https://github.com/rocklqy/rocklqy.github.io.git/posts/about/</link>
+			<link>https://rocklqy.github.io/posts/about/</link>
 			<pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
 			
-			<guid>https://github.com/rocklqy/rocklqy.github.io.git/posts/about/</guid>
+			<guid>https://rocklqy.github.io/posts/about/</guid>
 			<description>这是关于页面，rocklqy。</description>
 			<content type="html"><![CDATA[<p>这是关于页面，rocklqy。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>第一篇文章</title>
+			<link>https://rocklqy.github.io/posts/my-first-post/</link>
+			<pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+			
+			<guid>https://rocklqy.github.io/posts/my-first-post/</guid>
+			<description>这是第一篇文章。。。</description>
+			<content type="html"><![CDATA[<p>这是第一篇文章。。。</p>
 ]]></content>
 		</item>
 		
