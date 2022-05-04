@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Rock&#39;s blog</title>
-    <link>https://rocklqy.github.io/tags/untagged/</link>
-    <description>Recent content in untagged on Rock&#39;s blog</description>
+    <title>untagged on Beautiful Hugo</title>
+    <link>https://username.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 03 May 2022 22:28:05 +0800</lastBuildDate><atom:link href="https://rocklqy.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 03 May 2022 22:28:05 +0800</lastBuildDate><atom:link href="https://username.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://rocklqy.github.io/posts/firstpost/</link>
+      <link>https://username.github.io/posts/firstpost/</link>
       <pubDate>Tue, 03 May 2022 22:28:05 +0800</pubDate>
-      
-      <guid>https://rocklqy.github.io/posts/firstpost/</guid>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://username.github.io/posts/firstpost/</guid>
       <description></description>
     </item>
     

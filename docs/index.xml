@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rock&#39;s blog</title>
+    <title>Rock&#39;s Blog</title>
     <link>https://rocklqy.github.io/</link>
-    <description>Recent content on Rock&#39;s blog</description>
+    <description>Recent content on Rock&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 03 May 2022 22:28:05 +0800</lastBuildDate><atom:link href="https://rocklqy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Firstpost</title>
-      <link>https://rocklqy.github.io/posts/firstpost/</link>
-      <pubDate>Tue, 03 May 2022 22:28:05 +0800</pubDate>
-      
-      <guid>https://rocklqy.github.io/posts/firstpost/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rocklqy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于</title>
       <link>https://rocklqy.github.io/posts/about/</link>
@@ -33,6 +22,19 @@
       
       <guid>https://rocklqy.github.io/posts/my-first-post/</guid>
       <description>这是第一篇文章。。。</description>
+    </item>
+    
+    <item>
+      <title>Windows 10 邮件客户端中的链接无法打开chrome</title>
+      <link>https://rocklqy.github.io/posts/firstpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rocklqy.github.io/posts/firstpost/</guid>
+      <description>症状 Windows 10中foxmail作为邮件客户端，邮件中点击链接Chrome无反应，如果默认浏览器换成Edge可以正常打开。重装Chrome可以解决，但一段时间后又不行。
+解决方法 1、退出Chrome
+2、在控制面板中设置默认浏览器为Edge，在foxmail中打开一个链接，Edge弹出后关闭。
+3、重新打开Chrome，在Chrome的设置中将Chrome设为默认浏览器，此时弹出控制面板默认应用的设置。
+以上顺序不能错。</description>
     </item>
     
   </channel>

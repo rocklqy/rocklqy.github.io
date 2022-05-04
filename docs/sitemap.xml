@@ -2,20 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rocklqy.github.io/posts/firstpost/</loc>
-    <lastmod>2022-05-03T22:28:05+08:00</lastmod>
-  </url><url>
     <loc>https://rocklqy.github.io/</loc>
-    <lastmod>2022-05-03T22:28:05+08:00</lastmod>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rocklqy.github.io/tags/</loc>
-    <lastmod>2022-05-03T22:28:05+08:00</lastmod>
-  </url><url>
-    <loc>https://rocklqy.github.io/tags/untagged/</loc>
-    <lastmod>2022-05-03T22:28:05+08:00</lastmod>
-  </url><url>
-    <loc>https://rocklqy.github.io/posts/</loc>
-    <lastmod>2022-05-03T22:28:05+08:00</lastmod>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rocklqy.github.io/posts/about/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
@@ -23,7 +14,20 @@
     <loc>https://rocklqy.github.io/tags/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rocklqy.github.io/posts/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rocklqy.github.io/posts/my-first-post/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rocklqy.github.io/categories/</loc>
+  </url><url>
+    <loc>https://rocklqy.github.io/tags/chrome/</loc>
+  </url><url>
+    <loc>https://rocklqy.github.io/tags/hyperlink/</loc>
+  </url><url>
+    <loc>https://rocklqy.github.io/tags/windows-10/</loc>
+  </url><url>
+    <loc>https://rocklqy.github.io/posts/firstpost/</loc>
   </url>
 </urlset>
